@@ -12,15 +12,7 @@ I like solving problems, strengthening core programming concepts, and gradually 
 ---
 
 ### 🛠 Tech Stack
-**Languages:** C++, JavaScript  
-
-**Frontend:** HTML, CSS, React, Bootstrap, Tailwind CSS  
-
-**Backend:** Node.js, Express, EJS  
-
-**Databases:** MongoDB, MySQL  
-
-**Tools:** Git, GitHub  
+<img src="https://skillicons.dev/icons?i=cpp,js,react,bootstrap,tailwind,nodejs,express,mongodb,mysql,git,github" />
 
 ---
 
