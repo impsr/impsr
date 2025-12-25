@@ -16,7 +16,7 @@ I am learning Data Structures and Web Development.
 - **Databases:** MongoDB, MySQL  
 - **Tools:** Git, GitHub
 
-  ### 💡 What I Work With
+### 💡 What I Work With
 - Applying Data Structures concepts to solve programming problems  
 - Building server-side applications using Node.js, Express & EJS  
 - Creating responsive UIs with React and modern CSS frameworks  
