@@ -23,9 +23,11 @@ I focus on strengthening core programming concepts and building practical applic
 A task management web application built using Node.js, Express, EJS, and MongoDB.  
 Focuses on CRUD operations, routing, and server-side rendering.
 
+
 **DSA Practice**  
 A collection of Data Structures and Algorithm problems solved in C++.  
 Organized by topics such as Arrays, Linked Lists, Stacks, and Queues.
+
 
 **Frontend Practice**  
 Small UI components and pages built using HTML, CSS, React, Bootstrap, and Tailwind CSS.
