@@ -2,15 +2,15 @@
 
 ## Hi 👋 I'm Palak
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3000&pause=800&color=FFFFFF&center=false&vCenter=false&multiline=true&width=600&height=60&lines=Computer+Science+Student;Software+Development+%26+Problem+Solving;Web+Development+%26+DSA" />
+Computer Science student interested in building and understanding software.  
+Focused on strengthening core concepts through Data Structures and Web Development.
 
 ---
 
 ### 👩‍💻 About Me
-I am a Computer Science student who enjoys understanding how software works at a deeper level.  
-I like solving problems, strengthening core programming concepts, and gradually building real-world applications using modern web technologies.
+I am a Computer Science student who enjoys problem solving and understanding how software works behind the scenes.  
+I focus on strengthening core programming concepts and building practical applications using modern web technologies.
 
----
 
 ### 🛠 Tech Stack
 <img src="https://skillicons.dev/icons?i=cpp,js,react,bootstrap,tailwind,nodejs,express,mongodb,mysql,git,github" />
