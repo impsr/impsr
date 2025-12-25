@@ -9,5 +9,10 @@ I am learning Data Structures and Web Development.
 - 📚 Currently focusing on Data Structures & core programming concepts  
 - 🌱 Exploring Web Development and backend technologies
 
-
+### 🛠 Tech Stack
+- **Languages:** C++, JavaScript  
+- **Frontend:** HTML, CSS, React, Bootstrap, Tailwind CSS  
+- **Backend:** Node.js, Express, EJS  
+- **Databases:** MongoDB, MySQL  
+- **Tools:** Git, GitHub
 
