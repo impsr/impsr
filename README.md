@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&section=header)
+
+
 ## Hi 👋 I'm Palak
 
 Computer Science student with a strong interest in software development.  
