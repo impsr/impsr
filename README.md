@@ -2,8 +2,7 @@
 
 ## Hi 👋 I'm Palak
 
-Computer Science student with a strong interest in software development.  
-Focused on building solid fundamentals in Data Structures and Web Development.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3000&pause=800&color=FFFFFF&center=false&vCenter=false&multiline=true&width=600&height=60&lines=Computer+Science+Student;Software+Development+%26+Problem+Solving;Web+Development+%26+DSA" />
 
 ---
 
