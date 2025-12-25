@@ -16,8 +16,6 @@ Focused on building solid fundamentals in Data Structures and Web Development.
 
 ### 🛠 Tech Stack
 
-🛠 Tech Stack
-
 Languages: C++, JavaScript  
 
 Frontend: HTML, CSS, React, Bootstrap, Tailwind CSS  
@@ -29,7 +27,7 @@ Databases: MongoDB, MySQL
 Tools: Git, GitHub  
 
 ---
----
+
 📌 Projects
 
 • **TaskFlow**  
